@@ -6,15 +6,15 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />]
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
 
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />]
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
 
-[<img align="left" alt="Airflow" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMLh0LACMHKxVuDHLpBPe58gx8Fl-LX1S0SfzyxOEd9Oyxa6qhcq3kYj44-yj5HabhX2Q&usqp=CAU" />]
+<img align="left" alt="Airflow" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMLh0LACMHKxVuDHLpBPe58gx8Fl-LX1S0SfzyxOEd9Oyxa6qhcq3kYj44-yj5HabhX2Q&usqp=CAU" />
 
-[<img align="left" alt="Informatica" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbi8fqLQGQ8UWMZNONKe4MIUDUampFJ4ZrJ7ysFVNizQdajLsC9wSye4UKND1iVu-oQ6g&usqp=CAU" />]
+<img align="left" alt="Informatica" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbi8fqLQGQ8UWMZNONKe4MIUDUampFJ4ZrJ7ysFVNizQdajLsC9wSye4UKND1iVu-oQ6g&usqp=CAU" />
 
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />]
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
 
 
 
