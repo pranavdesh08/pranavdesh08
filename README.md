@@ -14,7 +14,7 @@
 
 <img align="left" alt="Informatica" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbi8fqLQGQ8UWMZNONKe4MIUDUampFJ4ZrJ7ysFVNizQdajLsC9wSye4UKND1iVu-oQ6g&usqp=CAU" />
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" /> <br>
 
 
 
