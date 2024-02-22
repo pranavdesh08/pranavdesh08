@@ -7,9 +7,13 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />][pythonplaylist]
+
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />][javaplaylist]
+
 [<img align="left" alt="Airflow" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/airflow/airflow.png" />][airflowplaylist]
+
 [<img align="left" alt="Informatica" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/informatica/informatica.png" />][informaticaplaylist]
+
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />][sqlplaylist]
 
 
