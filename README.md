@@ -1,13 +1,13 @@
-                                                                                 # Hi there 👋
+                                                  # Hi there 👋
 
-                                                                        ## Welcome to my GITHUB account!!
+                                          ## Welcome to my GITHUB account!!
                                                                         
-                                                    ### 👯 I’m looking to collaborate on projects related to Sports/Soccer technology.
+                   ### 👯 I’m looking to collaborate on projects related to Sports/Soccer technology.
 
 
-                                                            ## Don't forget to leave a if you find this repo useful ⭐
+                               ## Don't forget to leave a if you find this repo useful ⭐
 
-                                                                                 ## Thankyou🎆
+                                                  ## Thankyou🎆
 
 <!--
 **pranavdesh08/pranavdesh08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
