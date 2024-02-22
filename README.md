@@ -1,8 +1,8 @@
-#                                                   Hi there 👋
+####                                                   Hi there 👋
 
 ##                                          Welcome to my GITHUB account!!
                                                                         
-###                   👯 I’m looking to collaborate on projects related to Sports/Soccer technology.
+###                   👯 Looking to collaborate on projects ...
 
 
 ##                               Don't forget to leave a if you find this repo useful ⭐
