@@ -18,7 +18,7 @@
 
 
 
-##                               Don't forget to leave a if you find this repo useful ⭐
+##                               Don't forget to leave a ⭐ if you find this repo useful 
 
 ##                                                  Thankyou🎆
 
