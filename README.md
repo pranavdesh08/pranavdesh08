@@ -12,7 +12,7 @@
 
 [<img align="left" alt="Airflow" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMLh0LACMHKxVuDHLpBPe58gx8Fl-LX1S0SfzyxOEd9Oyxa6qhcq3kYj44-yj5HabhX2Q&usqp=CAU" />][airflowplaylist]
 
-[<img align="left" alt="Informatica" width="26px" src="[https://raw.githubusercontent.com/github/explore/main/topics/informatica/informatica.png](https://www.informatica.com/content/dam/informatica-com/en/images/misc/infa-social-share-2022.png)" />][informaticaplaylist]
+[<img align="left" alt="Informatica" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/informatica/informatica.png](https://www.informatica.com/content/dam/informatica-com/en/images/misc/infa-social-share-2022.png" />][informaticaplaylist]
 
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />][sqlplaylist]
 
