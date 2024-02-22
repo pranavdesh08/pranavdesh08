@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Welcome to my GITHUB account!!
+# Welcome to my GITHUB account!!
 👯 I’m looking to collaborate on projects related to Sports/Soccer technology.
 
 
