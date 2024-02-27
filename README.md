@@ -4,7 +4,7 @@
                                                                         
                        Looking to collaborate on projects ...👯👯👯
 
-    Languages and Tools:
+###    Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
 
