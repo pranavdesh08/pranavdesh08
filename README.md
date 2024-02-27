@@ -18,9 +18,9 @@
 
 
 
-##                               Don't forget to leave a ⭐ if you find this repo useful 
+-                               Don't forget to leave a ⭐ if you find this repo useful 
 
-##                                                  Thankyou🎆
+-                                                  Thankyou🎆
 
 <!--
 **pranavdesh08/pranavdesh08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
