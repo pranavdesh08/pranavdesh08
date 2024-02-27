@@ -2,7 +2,7 @@
 
 ##                                          Welcome to my GITHUB account!!
                                                                         
-                       Looking to collaborate on projects ...👯👯👯
+-                                    Looking to collaborate on projects ...👯👯👯
 
 ###    Languages and Tools:
 
